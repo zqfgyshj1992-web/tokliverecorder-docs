@@ -1,0 +1,10 @@
+site_name: Tok Live Recorder Docs
+site_url: https://tokliverecorder.readthedocs.io/
+site_description: How Tok Live Recorder records public TikTok LIVE streams in the cloud, what the free trial covers, and what it can't do.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Record a TikTok LIVE: recording.md
+  - Limits and file storage: limits.md
+  - FAQ: faq.md
